@@ -1,4 +1,4 @@
-Glowe version 1.1.0.0 web navigation
+Glowe version 1.1.0.0 web navigation. Using the Chromium open source project
 
 ------------------------------------------------
 
