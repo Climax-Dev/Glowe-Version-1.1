@@ -6,7 +6,7 @@ Company Name: Cristalium Studio
 
 Developer: Climax
 
-Description: Glowe is a web navigator developed by Climax, Glowe is an alpha in version 1.0.0.0, the company is Cristalium Studio created by Climax too.
+Description: Glowe is a web navigator developed by Climax, Glowe is an alpha in version 1.1.0.0, the company is Cristalium Studio created by Climax too.
 
 Version: 1.1.0.0
 
